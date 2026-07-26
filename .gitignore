@@ -1,0 +1,19 @@
+# Build directory
+build/
+
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Flex generated file (if present)
+lex.yy.c
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
